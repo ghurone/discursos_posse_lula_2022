@@ -1,4 +1,4 @@
-# Discrusos de posse do Presidente Lula 2022
+# Discursos de posse do Presidente Lula 2022
 
 Nesse repositório você encontrará os dois discursos do Lula.
 
